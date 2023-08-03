@@ -2120,7 +2120,7 @@ const Spark = {
 
 
 const soundManager = {
-	// baseURL: 'https://game.guole.fun/fireworks/mp3/',
+	// baseURL: 'https://game.z-turn.tech/fireworks/mp3/',
 	baseURL: 'https://s3-us-west-2.amazonaws.com/s.cdpn.io/329180/',
 	ctx: new (window.AudioContext || window.webkitAudioContext),
 	sources: {

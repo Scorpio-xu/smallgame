@@ -78,7 +78,7 @@ _config = {
 },
 shareData = {
     imgUrl: "./zhaonimei.jpg",
-    timeLineLink: "https://blog.guole.fun/game/",
+    timeLineLink: "https://game.z-turn.tech/",
     tTitle: _lang[_config.lang].title + "?",
     tContent: _lang[_config.lang].desc,
     totalWazi:0

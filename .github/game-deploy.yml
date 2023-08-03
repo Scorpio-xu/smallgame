@@ -1,4 +1,4 @@
-name: game.guole.fun build deploy
+name: game.z-turn.tech build deploy
 
 on:
   push:

@@ -1,5 +1,5 @@
 #!/bin/bash
-echo -e "\033[0;32mDeploying updates to game.guole.fun...\033[0m"
+echo -e "\033[0;32mDeploying updates to game.z-turn.tech...\033[0m"
 
 cd d:/src/game
 git add .
